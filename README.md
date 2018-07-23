@@ -24,7 +24,7 @@ This is a project template for [vue-cli](https://github.com/vuejs/vue-cli). **It
 
 ``` bash
 $ npm install -g vue-cli
-$ vue init prograhammer/vue-library-template my-project
+$ vue init lehuan94cntt/vue-library-template my-project
 $ cd my-project
 $ npm install
 $ npm run dev
